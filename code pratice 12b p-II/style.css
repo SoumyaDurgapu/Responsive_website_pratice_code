@@ -1,0 +1,21 @@
+.bg_cnr{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+ background-size: cover;
+ padding: 20px;
+}
+.icon{
+    color: white;
+    text-align: center;
+
+}
+.hr{ 
+    width: 70px;
+border-color: aliceblue;
+} 
+.clr{
+    color: white;
+}
+   
+.list-style{
+    list-style: none;
+}
